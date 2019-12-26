@@ -19,4 +19,6 @@ from scan import views
 urlpatterns = [
     path('home/', views.home, name='dashboard.html'),
     path('tables/', views.tables, name='tables.html'),
+    path('icons/', views.icons, name='icons.html'),
+    path('typography/', views.typography, name='typography.html'),
 ]

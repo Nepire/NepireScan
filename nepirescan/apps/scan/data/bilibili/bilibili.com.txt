@@ -1,0 +1,61 @@
+bw.bilibili.com               	110.43.34.66
+cm.bilibili.com               	139.159.241.37
+comic.bilibili.com            	110.43.34.66
+h.bilibili.com                	110.43.34.66
+game.bilibili.com             	58.251.150.72, 58.251.150.80
+interface.bilibili.com        	110.43.34.72
+live.bilibili.com             	110.43.34.72
+api.live.bilibili.com         	110.43.34.72
+offline.bilibili.com          	139.159.246.60
+sitemap.bilibili.com          	58.220.29.49
+space.bilibili.com            	139.159.241.37
+t.bilibili.com                	110.43.34.184
+test.live.bilibili.com        	183.131.11.57
+zb.bilibili.com               	110.43.34.66
+activity.bilibili.com         	110.43.34.66
+app.bilibili.com              	110.43.34.184
+baidu.bilibili.com            	106.120.159.70, 220.181.33.93
+docs.bilibili.com             	42.120.0.158
+lvyou.bilibili.com            	110.43.34.66
+pay.bilibili.com              	139.159.252.156
+vip.bilibili.com              	110.43.34.184
+www.bilibili.com              	110.43.34.184
+account.bilibili.com          	139.159.241.37
+cd.bilibili.com               	139.159.252.156
+chat.bilibili.com             	120.92.112.150, 120.92.144.250, 120.92.158.137, 120.92.78.57
+broadcastlv.chat.bilibili.com 	120.92.112.150, 120.92.144.250, 120.92.158.137, 120.92.78.57
+info.bilibili.com             	58.251.150.72, 58.251.150.80
+service.bilibili.com          	120.92.172.228
+show.bilibili.com             	113.105.168.157, 113.105.168.158, 113.96.109.94, 113.96.109.97, 113.96.109.98, 113.96.109.99, 119.147.111.226, 119.147.111.227, 119.147.111.228, 119.147.111.229, 119.147.111.230, 183.60.228.239, 183.60.228.242, 183.60.228.243
+link.bilibili.com             	139.159.246.60
+m.bilibili.com                	139.159.252.156
+mall.bilibili.com             	110.43.34.66
+moe.bilibili.com              	110.43.34.66
+pictures.bilibili.com         	58.251.150.72, 58.251.150.80
+player.bilibili.com           	101.89.125.226, 101.89.125.229, 101.89.125.232, 101.89.125.233, 101.89.125.234, 101.89.125.237, 175.6.41.205, 175.6.41.206, 175.6.41.207, 175.6.41.208, 175.6.41.209, 175.6.41.210, 175.6.41.211, 175.6.41.212
+search.bilibili.com           	110.43.34.184
+secure.bilibili.com           	58.251.150.72, 58.251.150.80
+s.search.bilibili.com         	110.43.34.66
+tb.bilibili.com               	110.43.34.66
+vc.bilibili.com               	139.159.241.37
+api.vc.bilibili.com           	139.159.241.37
+api.bilibili.com              	139.159.246.60
+bigfun.bilibili.com           	58.251.150.72, 58.251.150.80
+campus.bilibili.com           	110.43.34.184
+mail.bilibili.com             	121.43.184.213
+member.bilibili.com           	139.159.241.37
+message.bilibili.com          	110.43.34.72
+news.bilibili.com             	110.43.34.72
+passport.bilibili.com         	110.43.34.72
+big.bilibili.com              	110.43.34.72
+bp.bilibili.com               	58.251.150.72, 58.251.150.80
+c.bilibili.com                	110.43.34.66
+club.bilibili.com             	110.43.34.184
+d.bilibili.com                	110.43.34.66
+data.bilibili.com             	101.227.95.3
+hd.bilibili.com               	110.43.34.66
+img.bilibili.com              	113.96.181.214, 113.96.181.215, 113.96.181.216, 113.96.181.217, 119.147.156.226, 119.147.156.227, 119.147.156.228, 183.2.200.238, 183.2.200.239, 183.60.228.241, 183.60.228.242
+ir.bilibili.com               	23.7.220.133
+163.bilibili.com              	120.92.143.168
+security.bilibili.com         	110.43.34.66
+stat.bilibili.com             	42.121.54.103

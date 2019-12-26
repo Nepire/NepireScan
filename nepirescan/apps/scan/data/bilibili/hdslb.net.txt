@@ -1,0 +1,12 @@
+corp.hdslb.net                	107.182.165.170
+ws.hdslb.net                  	58.220.29.32
+www.hdslb.net                 	117.50.8.201
+a-web.hdslb.net               	117.50.8.201
+bilibili.hdslb.net            	117.50.8.201
+download.hdslb.net            	118.31.219.209
+interface.hdslb.net           	106.75.152.221, 106.75.164.19
+ns1.hdslb.net                 	112.25.54.209
+chat.hdslb.net                	183.240.17.138
+ns2.hdslb.net                 	112.25.54.210
+secure.hdslb.net              	114.215.205.207
+static.hdslb.net              	114.80.223.172

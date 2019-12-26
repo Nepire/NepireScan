@@ -1,0 +1,20 @@
+soft.acg.tv                   	223.6.253.56
+i4.acg.tv                     	122.228.77.85
+i2.acg.tv                     	122.228.77.85
+img.acg.tv                    	122.228.77.85
+send.acg.tv                   	183.131.11.37
+stat.acg.tv                   	119.27.176.150
+info.acg.tv                   	120.37.143.134
+share.acg.tv                  	120.24.248.50
+ad.acg.tv                     	106.75.152.221, 106.75.164.19
+h.acg.tv                      	14.198.70.60
+i3.acg.tv                     	122.228.77.85
+live.acg.tv                   	42.121.1.11
+s.acg.tv                      	110.76.40.240
+events.acg.tv                 	58.220.29.59
+i1.acg.tv                     	122.228.77.85
+link.acg.tv                   	183.57.82.162, 183.57.82.166
+m.acg.tv                      	117.50.8.201
+moe.acg.tv                    	203.186.36.143
+pl.acg.tv                     	218.205.74.9
+static.acg.tv                 	222.186.35.81
